@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766637375716570294/95a2f817104942aea464076ca9b3362a/artifacts
+end_time: 1713011696332
+entry_point_name: ''
+experiment_id: '766637375716570294'
+lifecycle_stage: active
+run_id: 95a2f817104942aea464076ca9b3362a
+run_name: delightful-snipe-969
+run_uuid: 95a2f817104942aea464076ca9b3362a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713011622821
+status: 3
+tags: []
+user_id: USER
