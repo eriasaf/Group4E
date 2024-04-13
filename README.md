@@ -4,9 +4,11 @@ This project implements a machine learning model for sentiment analysis on custo
 Overview
 The project consists of the following components:
 
-Model Training: Machine learning models (CNN, Bi-LSTM, GRU, Hybrid CNN) are trained on a dataset of customer feedback to learn patterns and relationships between text data and sentiment labels.
+Model Training: 
+Machine learning models (CNN, Bi-LSTM, GRU, Hybrid CNN) are trained on a dataset of customer feedback to learn patterns and relationships between text data and sentiment labels.
 
-Model Evaluation: The trained models are evaluated using a separate test dataset to assess their performance in predicting sentiment accurately.
+Model Evaluation: 
+The trained models are evaluated using a separate test dataset to assess their performance in predicting sentiment accurately.
 
 Model Deployment: The model with the highest accuracy is deployed using AWS Lambda and API Gateway to create an endpoint for making predictions via HTTP requests.
 
@@ -20,7 +22,8 @@ Usage
 Training the Models
 To train the machine learning models, follow these steps:
 
-Prepare the dataset: Ensure that the dataset is preprocessed and split into training and testing sets.
+Prepare the dataset:
+Ensure that the dataset is preprocessed and split into training and testing sets.
 Run the model training script: Execute the appropriate Python script (train_cnn.py, train_lstm.py, etc.) to train the desired model.
 Evaluating the Models
 To evaluate the trained models, follow these steps:
