@@ -1,0 +1,5 @@
+outs:
+- md5: d8b62242bad61ec5e52fc8ac0ebf5364
+  size: 11754959
+  hash: md5
+  path: AmazonData.csv
