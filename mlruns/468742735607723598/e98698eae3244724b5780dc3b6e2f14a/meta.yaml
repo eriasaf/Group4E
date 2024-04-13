@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/468742735607723598/e98698eae3244724b5780dc3b6e2f14a/artifacts
+end_time: 1713020952387
+entry_point_name: ''
+experiment_id: '468742735607723598'
+lifecycle_stage: active
+run_id: e98698eae3244724b5780dc3b6e2f14a
+run_name: adorable-stoat-212
+run_uuid: e98698eae3244724b5780dc3b6e2f14a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713020920988
+status: 3
+tags: []
+user_id: USER
